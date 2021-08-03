@@ -1,5 +1,5 @@
 ---
-author: "Noviyanto"
+authors: ["Noviyanto"]
 title: "Indosat 4G lemot, Baca Sampai Habis"
 description: "Kecewa ketika mengetahui kalo paket freedom combo sekarang memiliki batasan pemakain wajar seperti unlimited. Internet indosat lemot, pengaturan APN tidak mempengaruhi kualitas jaringan internet indosat."
 tags: ["indosat", "internet", "indosat lemot"]
