@@ -3,6 +3,7 @@ authors: ["Noviyanto"]
 title: "Cara Mencegah Masuk Angin Menggunakkan Teh panas & Tolak Angin"
 description: "Halo semuanya pada kesempatan kai ini saya akan memberikan tips bagaimana  cara mencegah masuk angin dengan menggunakan teh pada dan tolak angin. Cara ini biasa saya lakukan ketika badan saya mulai tidak merasa enak dan perut mulai kembung. Kenapa teh panas dan tolak angin? Sebenarnya saya mengikuti cara teman saya kalo lagi masuk angin kok"
 tags: ["kesehatan", "masuk angin"]
+category: ["kesehatan", "pengalaman"]
 date: 2021-08-03
 thumbnail: "/blog/teh-panas-dan-tolak-angin.webp"
 ---
