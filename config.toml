@@ -1,7 +1,7 @@
 theme = "blist"
 languageCode = "id-ID"
 baseurl = "https://youthful-galileo-490538.netlify.app/"
-title = "Blist Theme"
+title = "Noviyanto"
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
