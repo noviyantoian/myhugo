@@ -23,6 +23,8 @@ ignoreErrors = ["error-remote-getjson"]
   # Reference: https://tailwindcss.com/docs/customizing-colors
   ascentColor = "bg-blue-100"
 
+  authors ="Noviyanto"
+
 [params.homepage]
   title = "Hey! I'm Noviyanto"
   description = "Web Developer and SEO Specialist"
