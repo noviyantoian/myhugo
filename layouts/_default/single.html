@@ -15,10 +15,12 @@
 
     {{ .Content }}
   </article>
+  <div class="relative max-w-5xl mx-auto px-4">
   <span>
     {{ range .Param "authors" }}
       {{ . }}
     {{ end }}
   </span>
+  </div>
   {{- partial "social.html" . -}}
 {{ end }}
