@@ -31,12 +31,11 @@ ignoreErrors = ["error-remote-getjson"]
 [params.homepage.social]
   title = "Follow me"
   description = "I work on everything coding and tweet developer memes"
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  github = "https://github.com/"
+  twitter = "https://twitter.com/noviyantoian"
+  linkedin = "https://linkedin.com/in/noviyantoian"
+  github = "https://github.com/noviyantoian"
   medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
+  instagram = "https://instagram.com/noviyantoian"
 
 [[menu.main]]
   name = "About"
