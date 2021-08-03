@@ -1,6 +1,6 @@
 theme = "blist"
-languageCode = "en-US"
-baseurl = "https://blist.vercel.app"
+languageCode = "id-ID"
+baseurl = "https://youthful-galileo-490538.netlify.app/"
 title = "Blist Theme"
 ignoreErrors = ["error-remote-getjson"]
 
