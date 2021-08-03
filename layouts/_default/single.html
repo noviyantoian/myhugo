@@ -15,14 +15,27 @@
 
     {{ .Content }}
   </article>
-  <div class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4 bg-gray-50">
+  <div class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4 rounded bg-gray-100">
+ 
+    
+    {{ partial "tags.html" .}}
+  </div>
+
+
+  <div class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4 rounded bg-gray-100">
     {{ range .Param "authors" }}
     {{ $name := . }}
     {{ $path := printf "/%s/%s" "authors" ($name | urlize) }}
     {{ with $.Site.GetPage $path }}
-      <h2>{{ .Params.name }}</h2>
-      <img src="{{ $path }}.webp" class="w-32 h-32 rounded-full mx-auto">
-      <p>{{ .Params.bio }}</p>
+    <!-- Two columns -->
+<div class="flex mb-4">
+  <div class="w-1/4  px-1 "> 
+    <img src="{{ $path }}.webp" class="object-cover h-40 object-center  rounded-full mx-auto">
+  </div>
+  <div class="w-3/4  px-10 pt-10 text-black">
+    <h4><a href="https://www.noviyanto.com/">{{ .Params.name }}</a></h4>
+    <p>{{ .Params.bio }}</p></div>
+</div>
      
     {{ end }}
   {{ end }}
