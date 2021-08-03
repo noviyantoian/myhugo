@@ -1,4 +1,4 @@
 ---
-author: Noviyanto
+name: Noviyanto
 bio: Web developer from Semarang
 ---
