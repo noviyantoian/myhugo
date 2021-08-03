@@ -21,7 +21,7 @@
     {{ $path := printf "/%s/%s" "authors" ($name | urlize) }}
     {{ with $.Site.GetPage $path }}
       <h2>{{ .Params.name }}</h2>
-      <img src="{{ $path }}">
+      <img src="{{ $path }}.webp">
       <p>{{ .Params.bio }}</p>
      
     {{ end }}
