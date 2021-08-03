@@ -15,7 +15,10 @@
 
     {{ .Content }}
   </article>
-  
-
+  <span>
+    {{ range .Param "author" }}
+      {{ . }}
+    {{ end }}
+  </span>
   {{- partial "social.html" . -}}
 {{ end }}
