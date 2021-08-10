@@ -4,7 +4,7 @@ title: "Yang Perlu Kamu Tau Tentang Adobe Premiere Pro CC 2018 / 2019 / 2020"
 description: "Minimal kebutuhan sistem komputer untuk menjalankan adobe premiere 2017/ 2018 / 2019 / 2020. Yang perlu diperhatikan adalah realistis hardware untuk hasil yang maksimal dalam editing video. Anda wajib mempunyai hardware yang bagus dan memiliki durability tinggi yang tentu saja dengan spesifikasi tinggi. Sedikit perkenalan tentang adobe premiere. Adobe Premiere Pro adalah perangkat lunak untuk."
 tags: ["internet", "adobe", "software"]
 date: 2021-08-09
-thumbnail: "/blog/Internet-indosat-lemot-jaringan-indosat-hari-ini.webp"
+thumbnail: "/blog/spesifikasi-adobe-premiere-pro.webp"
 ---
 
 Minimal kebutuhan sistem komputer untuk menjalankan adobe premiere 2017/ 2018 / 2019 / 2020.
