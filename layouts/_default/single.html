@@ -45,13 +45,5 @@
   {{ end }}
   </div>
 
-  <div  class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4 rounded bg-gray-100">
-        {{ with .PrevInSection }}
-          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
-        {{ with .NextInSection }}
-          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
-    </div>
   {{- partial "social.html" . -}}
 {{ end }}
