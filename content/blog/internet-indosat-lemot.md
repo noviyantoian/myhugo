@@ -4,7 +4,7 @@ title: "Indosat 4G lemot, Baca Sampai Habis"
 description: "Kecewa ketika mengetahui kalo paket freedom combo sekarang memiliki batasan pemakain wajar seperti unlimited. Internet indosat lemot, pengaturan APN tidak mempengaruhi kualitas jaringan internet indosat."
 tags: ["indosat", "internet", "indosat lemot"]
 date: 2021-07-14
-# thumbnail: "/blog/Internet-indosat-lemot-jaringan-indosat-hari-ini.webp"
+thumbnail: "/blog/Internet-indosat-lemot-jaringan-indosat-hari-ini.webp"
 ---
 
 **Indosat Lemot** — berikut adalah ulasan dan solusi dari saya mengenai kenapa kualitas layanan dan jaringan indosat buruk hari ini dan lambat.
