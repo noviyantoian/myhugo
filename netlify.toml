@@ -44,8 +44,6 @@ command = "npm i && hugo --gc --minify"
       { width = 1920, height = 1080 }
     ]
 
-[[plugins]]
-package = "netlify-plugin-subfont"
 
 
 [context.production.environment]
