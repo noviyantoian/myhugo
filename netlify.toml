@@ -43,3 +43,10 @@ HUGO_ENABLEGITINFO = "true"
   for = "js/*.js"
   [headers.values]
     Cache-Control = "public, s-max-age=604800"
+
+
+[[redirects]]
+  from = "https://www.noviyanto.com/internet-indosat-lemot/"
+  to = "https://www.noviyanto.com/blog/internet-indosat-lemot/"
+  status = 301
+  force = true
