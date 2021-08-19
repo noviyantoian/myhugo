@@ -50,3 +50,15 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://www.noviyanto.com/blog/internet-indosat-lemot/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://www.noviyanto.com/cara-mencegah-masuk-angin-menggunakkan-teh-panas-campur-tolak-angin/"
+  to = "https://www.noviyanto.com/blog/cara-mencegah-masuk-angin-menggunakkan-teh-panas-campur-tolak-angin/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.noviyanto.com/yang-perlu-kamu-tau-tentang-adobe-pemiere-pro-cc/"
+  to = "https://www.noviyanto.com/blog/yang-perlu-kamu-tau-tentang-adobe-pemiere-pro-cc/"
+  status = 301
+  force = true
