@@ -46,7 +46,7 @@ HUGO_ENABLEGITINFO = "true"
 
 
 [[redirects]]
-  from = "https://www.noviyanto.com/internet-indosat-lemot/"
+  from = "https://www.noviyanto.com/indosat-internet-lemot/"
   to = "https://www.noviyanto.com/blog/internet-indosat-lemot/"
   status = 301
   force = true
