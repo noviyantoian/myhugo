@@ -5,7 +5,7 @@ title = "Noviyanto"
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-  description = "Noviyanto: Web Developer & Blogger dari Semarang"
+  description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
   name = "noviyanto.com"
   
   # Enable the darkmode toggle in header
@@ -26,12 +26,12 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params.homepage]
   title = "Hey! I'm Noviyanto"
-  description = "Web Developer and SEO Specialist"
+  description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
   photo = "/noviyanto.webp"
 
 [params.homepage.social]
   title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  description = "I work on everything coding and Blogging"
   twitter = "https://twitter.com/noviyantoian"
   linkedin = "https://linkedin.com/in/noviyantoian"
   github = "https://github.com/noviyantoian"
