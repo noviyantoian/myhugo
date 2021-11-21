@@ -1,7 +1,7 @@
 ---
 authors: ["Noviyanto"]
-title: "Mudah dan Cepat: Cara Perpanjang STNK Motor 5 Tahunan 2021"
-description: "Perpanjang STNK saat ini sangat mudah dan prosesnya sangat cepat. Apalagi untuk kendaraan bermotor roda dua. Bahkan calo yang sering mondar-mandir di lingkungan samsat bisa dihitung dengan jari, tentu ini sudah berbeda dengan keadaan dulu. Dengan sistem yang lebih baik, dan teknologi yang mendukung membuat setiap proses pengurusan perpanjang STNK jadi lebih mudah dan cepat. "
+title: "Mudah dan Cepat: Cara Perpanjang STNK Motor 5 Tahunan 2022"
+description: "Perpanjang STNK 2022 saat ini sangat mudah dan prosesnya sangat cepat. Apalagi untuk kendaraan bermotor roda dua. Bahkan calo yang sering mondar-mandir di lingkungan samsat bisa dihitung dengan jari, tentu ini sudah berbeda dengan keadaan dulu. Dengan sistem yang lebih baik, dan teknologi yang mendukung membuat setiap proses pengurusan perpanjang STNK jadi lebih mudah dan cepat. "
 tags: ["Motor", "otomotif", "stnk"]
 category: ["noviyanto", "otomotif", "pengalaman"]
 date: 2021-11-11
@@ -90,5 +90,7 @@ Selamat kamu sudah mendapatkan STNK 5 tahunan baru dan plat nomor baru.
 Bagaimana mudah bukan, dan proses pengurusan yang sudah saya jelaskan tidak memakan waktu lama, apalagi sekarang ini pembayaran STNK tahunan bisa dilakukan secara online, jadi antrian berkurang dan tidak perlu report antri berlama-lama.
 
 Selamat mencoba, jika kamu masih binggung dari panduan yang saya berikan, kamu bisa bertanya melalui kolom komentar dibawah dan akan saya jawab secepat mungkin.
+
+Perpanjang STNK Kendaraan Motor 5 tahunan 2022.
 
 Terima kasih, jangan lupa share artikel ini ke teman-teman kamu ya!
