@@ -4,7 +4,7 @@ title: "Solusi Permintaan M Token BRI Gagal, Ini Yang Saya Lakukan"
 description: "Cara mengatasi Permintaan M Token Gagal pada bank BRI. Masalah ini saya dapatkan ketikan akan melakukan transaksi melalui internet banking"
 tags: ["bri", "bank"]
 category: ["solusi", "solusi"]
-thumbnail: "/blog/email-profesional/email.webp"
+thumbnail: "/blog/permintaan-m-token-gagal/permintaan-m-token-bri-gagal.png.webp"
 date: 2021-12-10T16:12:28+07:00
 draft: false
 ---
