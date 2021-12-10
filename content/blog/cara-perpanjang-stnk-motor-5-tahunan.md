@@ -9,6 +9,8 @@ thumbnail: "/blog/stnk/panduang-lengkap-perpanjang-stnk-5-tahun-min.png"
 draft: false
 ---
 
+Update: Dikarenakan adanya pandemi COVID-19 pastikan anda sudah vaksin dan gunakan protokol kesehatan yang ketat saat berkunjung ke samsat terdekat.
+
 Perpanjang STNK saat ini sangat mudah dan prosesnya sangat cepat. Apalagi untuk kendaraan bermotor roda dua.
 
 Bahkan calo yang sering mondar-mandir di lingkungan samsat bisa dihitung dengan jari, tentu ini sudah berbeda dengan keadaan dulu.
