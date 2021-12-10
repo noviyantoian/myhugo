@@ -1,12 +1,11 @@
 ---
 authors: ["Noviyanto"]
-title: "
-Cara Membuat Email Pribadi Anda Terlihat Profesional"
-description: "Halo semuanya pada kesempatan kai ini saya akan memberikan tips bagaimana  cara mencegah masuk angin dengan menggunakan teh pada dan tolak angin. Cara ini biasa saya lakukan ketika badan saya mulai tidak merasa enak dan perut mulai kembung. Kenapa teh panas dan tolak angin? Sebenarnya saya mengikuti cara teman saya kalo lagi masuk angin kok"
+title: "Cara Membuat Email Pribadi Anda Terlihat Profesional"
+description: "Cara membuat email pribadi ANDA terlihat Profesional membuat akun email memang perkara yang cukup mudah untuk mereka yang sudah paham. Akan tetapi masih banyak dari mereka masih asal-asalan dalam membuat akun email. Jika anda seorang yang ingi tampil profesional di internet maka anda harus membaca artikel ini hingga tuntas. Karena dalam pembahasan kali ini noviyanto.com "
 tags: ["kesehatan", "masuk angin"]
 category: ["programming", "profesi", "professional"]
 date: 2021-12-10
-thumbnail: "/blog/email-profesional/email.webp"
+thumbnail: "/blog/permintaan-m-token-gagal/epermintaan-m-token-bri-gagal.png.webp"
 draft: false
 ---
 
