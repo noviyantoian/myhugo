@@ -5,7 +5,7 @@ description: "Cara membuat email pribadi ANDA terlihat Profesional membuat akun 
 tags: ["kesehatan", "masuk angin"]
 category: ["programming", "profesi", "professional"]
 date: 2021-12-10
-thumbnail: "/blog/permintaan-m-token-gagal/epermintaan-m-token-bri-gagal.png.webp"
+thumbnail: "/blog/permintaan-m-token-gagal/permintaan-m-token-bri-gagal.png.webp"
 draft: false
 ---
 
