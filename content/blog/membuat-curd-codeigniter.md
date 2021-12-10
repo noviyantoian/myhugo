@@ -7,7 +7,7 @@ tags: ["kesehatan", "masuk angin"]
 category: ["programming", "profesi", "professional"]
 date: 2021-08-03
 thumbnail: "/blog/email-profesional/email.webp"
-draft: true
+draft: false
 ---
 
 Cara membuat email pribadi ANDA terlihat Profesional membuat akun email memang perkara yang cukup mudah untuk mereka yang sudah paham. Akan tetapi masih banyak dari mereka masih asal-asalan dalam membuat akun email.
