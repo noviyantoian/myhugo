@@ -3,6 +3,8 @@ languageCode = "id-ID"
 baseurl = "https://www.noviyanto.com/"
 title = "Noviyanto"
 ignoreErrors = ["error-remote-getjson"]
+disqusShortname = "https-www-noviyanto-com"
+
 
 [params]
   description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
@@ -60,3 +62,4 @@ ignoreErrors = ["error-remote-getjson"]
 	author = "authors"
   tag = "tags"
 	category = "categories"
+
