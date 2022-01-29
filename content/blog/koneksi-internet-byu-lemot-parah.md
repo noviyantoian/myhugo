@@ -4,6 +4,7 @@ title: "Koneksi Internet Byu Lemot Parah, Ini Yang Saya Lakukan!"
 date: 2022-01-29T21:57:33+07:00
 description: "Sudah 2 bulan lebih koneksi jaringan internet byu lembat, sinyal sering hilang dan ketika untuk bermain game suka lag"
 tags: ["telkomsel", "internet", "byu lemot", "telkomsel lemot"]
+thumbnail: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
 draft: false
 ---
 
