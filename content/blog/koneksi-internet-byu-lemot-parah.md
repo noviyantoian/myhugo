@@ -10,13 +10,13 @@ draft: false
 
 **Jaringan internet byu lemot** kejadian ini saya alami secara langsung ketika jaringan internet byu dari telkomsel suka hilang dan saya sudah coba lapor jaringan lemot ini melalui telepon sebanyak 5 kali mungkin lebih.
 
-Seperti biasa Customer Service (CS) akan bekerja sesuai SOP yang ada, dimana kita akan disuruh ganti APN, ganti Jaringan, Restart HP dan lainya.
+Seperti biasa _Customer Service_ (CS) akan bekerja sesuai SOP yang ada, dimana kita akan disuruh ganti APN, ganti Jaringan, **Restart HP** dan lainya.
 
 Yang dimana hal tersebut sebenarnya tidak berpengaruh banyak, bisa saya katakan hanya 5% saja pengaruhnya, sementara lainya adalah faktor langsung jaringan tower atau BTS yang ada didaerah tersebut.
 
 Saya coba sekali lagi menghubungi call center bYu, tapi hasilnya tetap nihil.
 
-Secara logika jaringan Byu menginduk dengan jaringan telkomsel, jadi harusnya jaringan bagus.
+Secara logika jaringan Byu menginduk dengan **jaringan telkomsel**, jadi harusnya jaringan bagus.
 
 Ketika awal keluar kartu byu tidak pernah ada masalah, tapi akhir-akhir ini jaringannya makin kacau saja.
 
