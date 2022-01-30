@@ -1,8 +1,8 @@
 ---
 authors: ["Noviyanto"]
-title: "Koneksi Internet Byu Lemot Parah, Ini Yang Saya Lakukan!"
+title: "Koneksi 4G Internet Byu Lemot Parah, Ini Yang Saya Lakukan!"
 date: 2022-01-29T21:57:33+07:00
-description: "Sudah 2 bulan lebih koneksi jaringan internet byu lambat dan tidak stabil, sinyal sering hilang dan ketika untuk bermain game suka lag, cara mengatasinya seperti ini"
+description: "Sudah 2 bulan lebih koneksi jaringan internet byu lambat Meski 4G dan tidak stabil, sinyal sering hilang dan ketika untuk bermain game suka lag, cara mengatasinya seperti ini"
 tags: ["telkomsel", "internet", "byu lemot", "telkomsel lemot"]
 thumbnail: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
 draft: false
@@ -52,8 +52,7 @@ Kemudian 3 hari lagi setelah telepon pertama, ternyata tida kunjung ada perubaha
 
 Saya lanjutkan telepon ke 3 dan selanjutnya sampai ada kejalasan, cuma saya makin males juga harus laporan terus.
 
-Hingga artikel ini terbit koneksi internet byu sudah sedikit lancar, hanya saja untuk jaringan belum stabil sama sekali, masih sering turun jaringan ke Edge atau H+ yang dimana koneksi tersebut didevice saya tidak dapat berjalan dengna normal dan bahkan tidak dapat dipakai dijaringan H+.
-
+Hingga artikel ini terbit koneksi internet byu sudah sedikit lancar, hanya saja untuk jaringan belum stabil sama sekali, masih sering turun jaringan ke Edge atau H+ yang dimana koneksi tersebut di hp saya tidak dapat berjalan dengna normal dan bahkan tidak dapat dipakai dijaringan meski koneksi ada di H+ atau 4G.
 Jika kamu mengalami hal yang sama coba langsung telepon call center byu secara langsung.
 Ulangi berkali hingga koneksi jaringan anda kembali normal meski sedikit.
 
