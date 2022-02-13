@@ -1,5 +1,5 @@
 theme = "blist"
-languageCode = "id-ID"
+languageCode = "id"
 baseurl = "https://www.noviyanto.com/"
 title = "Noviyanto"
 ignoreErrors = ["error-remote-getjson"]
