@@ -59,6 +59,7 @@
       "dark:text-gray-600",
       "dark:text-white",
       "disabled",
+      "embed",
       "flex",
       "flex-wrap",
       "font-bold",
@@ -155,9 +156,11 @@
       "top-0",
       "top-4",
       "transition-colors",
+      "video-player",
       "w-1/4",
       "w-3/4",
-      "w-full"
+      "w-full",
+      "youtube-player"
     ],
     "ids": [
       "1-hardware-di-towerbts-bermasalah",
@@ -190,6 +193,9 @@
       "berikut-cara-mengatasi-permintaan-m-token-bri-yang-gagal",
       "cara-aktivasi-kartu-byu",
       "cara-mengatasi-jaringan-indosat-4g-yang-super-lemot",
+      "estimasi-waktu-pendakian",
+      "estimasi-waktu-pendakian--biaya-masuk",
+      "estimasi-waktu-pendakian-dilakukan-2-hari-1-malam-dengan-total-durasi-berjalan-11-jam",
       "faq",
       "gila-kecepatan-turun-sampai-30kbs",
       "kenapa-jaringan-byu-tidak-stabil-dan-lemot",
@@ -204,6 +210,7 @@
       "pengaturan-apn-tidak-akan-merubah-apapun",
       "rekomendasi-vga-amd-dan-nvidia-untuk-menjalankan-adobe-premiere-pro",
       "sistem-operasi",
+      "syarat-pendakian",
       "system-requirement",
       "tags",
       "versi-bahasa"

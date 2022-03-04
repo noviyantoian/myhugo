@@ -16,6 +16,9 @@ disqusShortname = "https-www-noviyanto-com"
   # Enable search in header
   enableSearch = true
 
+  enableInlineShortcodes = true
+
+
   # Custom copyright - optional
   copyright = "Copyright © 2021 - Noviyanto · All rights reserved"
   favicon = "favicon.svg"
