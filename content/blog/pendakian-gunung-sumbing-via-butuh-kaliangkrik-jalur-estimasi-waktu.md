@@ -1,5 +1,5 @@
 ---
-author: "Noviyanto"
+authors: ["Noviyanto"]
 title: "Video Pendakian Gunung Sumbing via Butuh Kaliangkrik, Jalur & Estimasi Waktu"
 description: "Estimasi waktu jalur pendakian gunung Sumbing via desa butuh kaliangrik ( nepal van Java ). Info pendakian terbaru gunung sumbing."
 tags: ["Pendakian Gunung Sumbing", "Gunung Sumbing"]

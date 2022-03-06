@@ -1,5 +1,5 @@
 ---
-author: "Noviyanto"
+authors: ["Noviyanto"]
 title: "Pendakian Gunung Sindoro Via Alang Alang Sewu, Jalur & Estimasi Waktu"
 description: "Jalur pendakian gunung sindoro via alang alang sewu. Estimasi waktu dan biaya. Basecamp - Area Camp: 3 Jam · Area Camp - Puncak: 2 Jam"
 tags: ["pendakian", "Gunung Sindoro"]
