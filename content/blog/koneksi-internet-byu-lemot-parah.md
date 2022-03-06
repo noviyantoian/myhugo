@@ -1,6 +1,6 @@
 ---
 authors: ["Noviyanto"]
-title: "Koneksi 4G Internet Byu Lemot Parah, Ini Yang Saya Lakukan!"
+title: "Koneksi 4G Internet By.u Lemot Parah, Ini Yang Saya Lakukan!"
 date: 2022-01-29T21:57:33+07:00
 description: "Sudah 2 bulan lebih koneksi jaringan internet byu lambat Meski 4G dan tidak stabil, sinyal sering hilang dan ketika untuk bermain game suka lag, cara mengatasinya seperti ini"
 tags: ["telkomsel", "internet", "byu lemot", "telkomsel lemot"]
