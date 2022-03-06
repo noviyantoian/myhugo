@@ -1,7 +1,7 @@
 ---
 authors: ["Noviyanto"]
 title: "Halo JNE, Barang Tidak Sampai Berujung Hilang Sementara"
-description: "jne"
+description: "Halo sob, balikan lagi nih sama saya, kali ini noviyanto.com bakalan bahas tentang kenapa kok barang yang dikirim oleh JNE tidak kunjung sampai atau stuck di satu tempat. Ini berdasarkan pengalaman saya ketika barang saya stuck (Macet) di Jakarta selama 1 Minggu lebih ( 8 Hari ), kok barang saya belum sampai. Dan karena saya"
 tags: ["JNE", "Masalah JNE"]
 thumbnail: "/blog/jne/PAKET-JNE-TIDAK-KUNJUNG-SAMPAI.webp"
 date: 2022-03-06T22:57:00+07:00
