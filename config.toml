@@ -66,3 +66,7 @@ ignoreErrors = ["error-remote-getjson"]
   tag = "tags"
 	category = "categories"
 
+aliases = [
+    "/blog/pendakian-gunung-sindoro-via-alang-alang-sewu/",
+    "/hiking/pendakian-gunung-sindoro-via-alang-alang-sewu/"
+]
