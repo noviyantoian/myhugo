@@ -9,5 +9,5 @@ features = ["clean", "gallery", "minimal", "minimalist", "mobile", "personal", "
 min_version = "0.82.1"
 
 [author]
-  name = "Noviyanto"
-  homepage = "https://www.noviyanto.com"
+  name = "Varun A P"
+  homepage = "https://apvarun.com"

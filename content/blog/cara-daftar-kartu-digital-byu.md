@@ -4,7 +4,7 @@ title: "13 Langkah mudah Daftar & Aktivasi Kartu By.u"
 date: 2021-12-16T09:46:24+07:00
 description: "Kartu perdana By.U — Kartu perdana by.U diluncurkan oleh operator digital terbaru dari telkomsel. Dan kartu ini wajib kamu coba. Apalagi sedang memberikan promo yang menarik. Kamu bisa dapatkan 100GB Yotubue cuma dengan Rp 10,000 rupiah saja. Dan banyak promo lainya yang sangat menarik untuk kamu coba. Bagaimana kamu tertarik. Dalam tulisan saya kali ini."
 tags: ["tutorial"]
-category: ["tutorial", "teknologi"]
+category: ["tutorial", "teknologi", "blog"]
 thumbnail: "/blog/cara-daftar-kartu-byu/cara-daftar-kartu-byu.webp"
 draft: false
 ---

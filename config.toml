@@ -3,12 +3,12 @@ languageCode = "id"
 baseurl = "https://www.noviyanto.com/"
 title = "Noviyanto"
 ignoreErrors = ["error-remote-getjson"]
-disqusShortname = "https-www-noviyanto-com"
 
 
 [params]
   description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
   name = "noviyanto.com"
+  logo = "/noviyanto-logo.webp"
   
   # Enable the darkmode toggle in header
   darkModeToggle = true
@@ -20,7 +20,7 @@ disqusShortname = "https-www-noviyanto-com"
 
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Noviyanto · All rights reserved"
+  copyright = "Copyright © 2022 - Noviyanto · All rights reserved"
   favicon = "favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -31,7 +31,7 @@ disqusShortname = "https-www-noviyanto-com"
 
 [params.homepage]
   title = "Hey! I'm Noviyanto"
-  description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
+  description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile,landing page, toko online, Jasa optimasi kecepatan website."
   photo = "/noviyanto.webp"
 
 [params.homepage.social]
@@ -40,7 +40,7 @@ disqusShortname = "https-www-noviyanto-com"
   twitter = "https://twitter.com/noviyantoian"
   linkedin = "https://linkedin.com/in/noviyantoian"
   github = "https://github.com/noviyantoian"
-  medium = "https://medium.com/"
+  medium = "https://noviyanto.medium.com/"
   instagram = "https://instagram.com/noviyantoian"
 
 [[menu.main]]
