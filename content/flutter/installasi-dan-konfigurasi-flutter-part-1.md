@@ -2,7 +2,7 @@
 authors: ["Noviyanto"]
 title: "Installasi Dan Konfigurasi Flutter Part 1"
 date: 2022-01-30T08:05:33+07:00
-draft: false
+draft: true
 ---
 
 Flutter adalah salah satu framework yang wajib dicoba untuk development aplikasi multi device (Websibe, Table,Smartphone).
