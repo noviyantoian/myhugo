@@ -5,7 +5,33 @@ title = "Noviyanto"
 ignoreErrors = ["error-remote-getjson"]
 
 
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+[author]
+  name = "Noviyanto"
+
 [params]
+  description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
+
+  [params.publisher]
+    name = "Noviyanto"
+
+    [params.publisher.logo]
+      url = "/noviyanto-logo.webp"
+      width = 127
+      height = 40
+
+  [params.logo]
+    url = "/noviyanto-logo.webp"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "/noviyanto.webp"
+    width = 800
+    height = 600
+
+  author = "Noviyanto"
   description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
   name = "noviyanto.com"
   logo = "/noviyanto-logo.webp"
@@ -18,7 +44,6 @@ ignoreErrors = ["error-remote-getjson"]
 
   enableInlineShortcodes = true
 
-
   # Custom copyright - optional
   copyright = "Copyright © 2022 - Noviyanto · All rights reserved"
   favicon = "favicon.svg"
@@ -27,8 +52,10 @@ ignoreErrors = ["error-remote-getjson"]
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
   ascentColor = "bg-blue-100"
+  
+  # Google analytics
 
-
+  GoogleAnalyticsID = "UA-115870402-1"
 [params.homepage]
   title = "Hey! I'm Noviyanto"
   description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile,landing page, toko online, Jasa optimasi kecepatan website."
@@ -40,8 +67,17 @@ ignoreErrors = ["error-remote-getjson"]
   twitter = "https://twitter.com/noviyantoian"
   linkedin = "https://linkedin.com/in/noviyantoian"
   github = "https://github.com/noviyantoian"
-  medium = "https://noviyanto.medium.com/"
+  medium = "https://noviyantoian.medium.com/"
   instagram = "https://instagram.com/noviyantoian"
+
+[params.socialmedia]
+
+facebook = "noviyantoian"
+twitter = "noviyantoian"
+instagram = "noviyantoian"
+github = "noviyantoian"
+linkedin = "noviyantoian"
+medium  ="noviyantoian"
 
 [[menu.main]]
   name = "About"
