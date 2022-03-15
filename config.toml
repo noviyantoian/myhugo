@@ -3,7 +3,7 @@ languageCode = "id"
 baseurl = "https://www.noviyanto.com/"
 title = "Noviyanto"
 ignoreErrors = ["error-remote-getjson"]
-
+  googleAnalytics = "UA-115870402-1"
 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
@@ -55,7 +55,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   
   # Google analytics
 
-  GoogleAnalyticsID = "UA-115870402-1"
+
 [params.homepage]
   title = "Hey! I'm Noviyanto"
   description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile,landing page, toko online, Jasa optimasi kecepatan website."

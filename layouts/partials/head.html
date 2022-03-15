@@ -2,9 +2,6 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta property="og:locale" content="id_ID">
-  {{ if .Site.Params.GoogleAnalyticsID }}
-  {{ partial "google-analytis.html" . }}
-  {{ end }}
   <link rel="icon" href="{{ if (isset .Site.Params "favicon") }}{{ .Site.Params.favicon }}{{ else }}/favicon.ico{{ end }}">
 
   <title>
@@ -54,7 +51,7 @@
       onload="renderMathInElement(document.body);"
     ></script>
   {{ end }}
-
+  {{ template "_internal/google_analytics.html" . }}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   {{ template "_internal/schema.html" . }}
