@@ -2,6 +2,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta property="og:locale" content="id_ID">
+  {{- partial "font.html" . -}}
   {{- partial "google-analytics.html" . -}}
 
   <link rel="icon" href="{{ if (isset .Site.Params "favicon") }}{{ .Site.Params.favicon }}{{ else }}/favicon.ico{{ end }}">
@@ -58,5 +59,10 @@
   {{ template "_internal/twitter_cards.html" . }}
   {{ template "_internal/schema.html" . }}
   {{- partial "schema.html" . -}}
+  <style>
+    body{
+    font-family: 'Raleway', sans-serif;
+    }
+  </style>
 </head>
   
