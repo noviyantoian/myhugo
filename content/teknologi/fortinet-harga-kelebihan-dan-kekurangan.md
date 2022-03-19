@@ -1,7 +1,7 @@
 ---
 author: ["Noviyanto"]
 title: "GRATIS Konsultasi Produk Firewall Fortinet Harga, Kelebihan Dan Kekurangan"
-description: ""
+description: "Firewall fortinet akan terus menjadi produk keamanan siber yang wajib dimiliki instansi atau perusahaan untuk mengamankan seluruh dan dan jaringan. Gratis Konsultasi untuk pemilihan produk"
 category: ["teknologi"]
 tags: ["teknologi", "firewall", "fortinet"]
 thumbnail: "/teknologi/fortinet/fortinet.png"
