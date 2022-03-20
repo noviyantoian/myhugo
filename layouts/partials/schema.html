@@ -66,3 +66,39 @@
     ]
   }
 </script>
+
+{{ $content := . }}
+{{ $site := .Site }}
+<script defer type="application/ld+json">
+  { 
+    "@context": "http://schema.org", 
+    "@type": "BlogPosting",
+    "name": {{ .Title }},
+    "description": {{ .Params.Description | plainify }},
+    "mainEntityOfPage": {{ .Permalink }},
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "headline": {{ .Title }},
+    "author": [
+   
+          "@type": "Person",
+          "name": "{{ .Site.Author.name }}",
+          "url": "https://www.noviyanto.com",
+ 
+    ],
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "wordCount": {{ .WordCount }},
+   
+    "url": {{ .Permalink  }},
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "logo": {
+        "@type": "imageObject",
+        "url": {{ "/noviyanto.webp" | absURL }}
+      }
+    },    
+    {{ with .Params.Tags }}
+      "keywords": {{ delimit . ", " }}
+    {{ end }}
+  }
+</script>
