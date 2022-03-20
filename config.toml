@@ -15,20 +15,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
   description = "Web Developer and SEO Specialist dari Semarang. Menerima Jasa pembuatan website company profile, toko online, Point of sale, optimasi kecepatan website."
 
-  [params.publisher]
+[params.publisher]
     name = "Noviyanto"
 
-    [params.publisher.logo]
-      url = "/noviyanto-logo.webp"
-      width = 127
-      height = 40
-
-  [params.logo]
-    url = "/noviyanto-logo.webp"
-    width = 127
-    height = 40
-
-  [params.image]
+[params.image]
     url = "/noviyanto.webp"
     width = 800
     height = 600
