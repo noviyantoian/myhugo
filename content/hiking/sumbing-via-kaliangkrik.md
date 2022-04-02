@@ -3,7 +3,7 @@ authors: ["Noviyanto"]
 title: "Video Pendakian Gunung Sumbing via Butuh Kaliangkrik, Jalur & Estimasi Waktu"
 description: "Estimasi waktu jalur pendakian gunung Sumbing via desa butuh kaliangrik ( nepal van Java ). Info pendakian terbaru gunung sumbing."
 tags: ["Pendakian Gunung", "Gunung Sumbing", "hiking"]
-thumbnail: "/blog/sumbing-via-kaliangkrik/sumbing-via-kaliangkrik.webp"
+thumbnail: "sumbing-via-kaliangkrik/sumbing-via-kaliangkrik.webp"
 date: 2022-04-03T04:09:01+07:00
 draft: false
 ---
