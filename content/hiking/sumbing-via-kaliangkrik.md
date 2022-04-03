@@ -28,12 +28,12 @@ Ya, cukup dengan surat keterangan sehat saja dan identitas (KTP/SIM) untuk kebut
 
 ## Estimasi waktu:
 
-BC - Batas Ojek 10 menti
-Batas Ojek - Pos 1: +-15 Menit
-Pos 1 - Pos 2: +- 85 Menit
-Pos 2 - Pos 3: +- 78 Menit
-Pos 3 - Pos 4: +- 161 menit ( hujan dan jalan lambat )
-Pos 4 - Puncak sejati: +- 91 menit
+- BC - Batas Ojek 10 menit
+- Batas Ojek - Pos 1: +-15 Menit
+- Pos 1 - Pos 2: +- 85 Menit
+- Pos 2 - Pos 3: +- 78 Menit
+- Pos 3 - Pos 4: +- 161 menit ( hujan dan jalan lambat )
+- Pos 4 - Puncak sejati: +- 91 menit
 
 Total durasi perjalanan 2 hari 1 malam.
 
