@@ -10,7 +10,7 @@ draft: false
 
 For your information : Origo Coffee di BSB ( Bukit Semarang Baru ) memiliki 2 tempat yakni di taman plaza dan juga didekat danau BSB.
 
-Halo semuanya, rasa-rasanya ini pertama kalinya di dearah Bukit Semarang Baru ada kafe yang bisa di bilang wajib teman-teman kunjungi. Karena tidak ada kafe lainya di sekitar BSB origo.co memberanikan diri membuka usahanya. Ini dari awal saya melihat sesuatu yang menarik ada sebuah kontainer yang didalamnya di sulap menjadi mini cafe.
+Halo semuanya, rasa-rasanya ini pertama kalinya di dearah Bukit Semarang Baru ada kafe yang bisa di bilang wajib teman-teman kunjungi. Karena tidak ada kafe lainya di sekitar BSB origo.co memberanikan diri membuka usahanya. Ini dari awal saya melihat sesuatu yang menarik ada sebuah kontainer yang didalamnya di sulap menjadi mini cafe.bangun-website
 
 Aku kira itu cuma kontainer biasa aja sebelum tau itu ternyata cafe. Karena penasaran dan saya cuma lewat dan belum mampir waktu itu karena memang kesibukan saya membuat saya belum bisa mampir. Tapi hal ini membuat saya cukup tertarik untuk mampir.
 
