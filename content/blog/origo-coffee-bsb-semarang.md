@@ -3,7 +3,7 @@ title: "Origo Coffee BSB Semarang"
 description: "Origo coffee bsb semarang berada di dua tempat, berada di taman plaza depan SPBU BSB dan satu lagi berada didekat danau BSB semarang. Saya rekomendasikan datang ke origo yang dekat danau BSB dan datang saat sore hari"
 tags: ["cafe", "travel", "semarang"]
 category: ["travel", "review cafe"]
-thumbnail: "/blog/origo-bsb-semarang/origo-coffee-semarang.webp"
+thumbnail: "/blog/origo-coffee-bsb-semarang/origo-coffee-semarang.webp"
 date: 2022-04-16T14:42:33+07:00
 draft: false
 ---
