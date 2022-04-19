@@ -3,7 +3,7 @@ title: "Begini Cara Membuat Aplikasi to Do App Dengan Html Css Javascript"
 description: ""
 tags: ["coding", "project aplikasi", "html", "css", "javscript"]
 category: ["coding", "project aplikasi"]
-thumbnail: "/coding/todo-app-project/index-1.png"
+thumbnail: "/coding/todo-app-project/thumbnail-todo-app-task.png"
 date: 2022-04-16T21:56:21+07:00
 draft: false
 ---
