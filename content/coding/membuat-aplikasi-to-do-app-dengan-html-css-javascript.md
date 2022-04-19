@@ -1,6 +1,6 @@
 ---
 title: "Begini Cara Membuat Aplikasi to Do App Dengan Html Css Javascript"
-description: ""
+description: "Tutorial membuat aplikasi todo app menggunakan html, css dan javascript."
 tags: ["coding", "project aplikasi", "html", "css", "javscript"]
 category: ["coding", "project aplikasi"]
 thumbnail: "/coding/todo-app-project/thumbnail-todo-app-task.png"
