@@ -4,6 +4,8 @@ description: "Review cafe Antara Kata Coffee shop Tugu Muda Semarang. Harga menu
 tags: ["cafe", "travel", "semarang", "antara kata"]
 category: ["travel", "review cafe"]
 thumbnail: "/blog/antara-kata-semarang/antara-kata-semarang.png"
+images: ["/blog/antara-kata-semarang/antara-kata-semarang.png"]
+
 date: 2022-04-19T22:31:39+07:00
 draft: false
 ---
