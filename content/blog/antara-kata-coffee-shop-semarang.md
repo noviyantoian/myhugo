@@ -1,4 +1,5 @@
 ---
+authors: ["Noviyanto"]
 title: "Antara Kata Coffee Shop Semarang"
 description: "Review cafe Antara Kata Coffee shop Tugu Muda Semarang. Harga menu"
 tags: ["cafe", "travel", "semarang", "antara kata"]
